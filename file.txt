@@ -1,6 +1,7 @@
 Hello world !
 Encore une modif !
-LOL ^^ 
+LOL ^^
 
 Rebase ...
 
+Amélioration vraiment cool
