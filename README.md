@@ -1,6 +1,7 @@
 # FormationDTA-Git
 
 ![Logo Git](http://www.mimastech.com/wp-content/uploads/2016/10/git.png "Logo Git")
+
 Ce dépôt est créé dans le cadre de la formation Git par Diginamic.
 
 ## Quelques commandes utiles
