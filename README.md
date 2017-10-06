@@ -4,6 +4,10 @@
 
 Ce dépôt est créé dans le cadre de la formation Git par Diginamic.
 
+## Historique
+
+Git est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux,  en 2005 et distribué selon les termes de la licence publique générale GNU version 2. En 2016, il s’agit du logiciel de gestion de versions le plus populaire qui est utilisé par plus de douze millions de personnes.
+
 ## Quelques commandes utiles
 
 ```bash
