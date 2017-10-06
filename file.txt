@@ -8,4 +8,4 @@ Amélioration vraiment cool
 
 Maintenant j'ai GitKraken pour tout gérer
 
-Ajout d'une feature
+"Où doit couler mon sang ?"
