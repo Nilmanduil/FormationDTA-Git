@@ -5,3 +5,5 @@ LOL ^^
 Rebase ...
 
 Amélioration vraiment cool
+
+Maintenant j'ai GitKraken pour tout gérer
