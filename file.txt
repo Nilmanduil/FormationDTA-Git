@@ -7,5 +7,3 @@ Rebase ...
 Amélioration vraiment cool
 
 Maintenant j'ai GitKraken pour tout gérer
-
-"Où doit couler mon sang ?"
